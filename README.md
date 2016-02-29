@@ -4,7 +4,7 @@ Add lazy loading for your FlexSlider 2 slideshow images. There are a couple othe
 
 ##Usage
 - Install [FlexSlider 2](http://flexslider.woothemes.com/) and confirgure as desired.
-- Include jquery.flexslider.LazyLoader.js
+- Include jquery.flexslider.LazyLoader.min.js
 - For slides that should lazy load, add a class of *lazy* and change the *src* to *data-src* to prevent loading. The first slide should not be changed.
 
 ```
