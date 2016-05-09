@@ -1,3 +1,5 @@
+** incomplete **
+
 # LazyLoader for FlexSlider 2
 
 Add lazy loading for your FlexSlider 2 slideshow images. There are a couple other implementations but they either didn't work or were overly complicated.
