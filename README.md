@@ -1,4 +1,4 @@
-** incomplete **
+** Incomplete: there are issues caused by how Flex slider handles looping of the slides.
 
 # LazyLoader for FlexSlider 2
 
